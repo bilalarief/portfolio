@@ -138,11 +138,10 @@ export default function Home() {
                 <span className="font-bold"> UI/UX Designer</span>
               </h1>
               <p className="text-[18px] leading-[140%] paragraph-text">
-                Hello there! 👋 I'm a dedicated UI/UX Designer, driven by a year
-                of hands-on experience in the field. Passionate about my craft,
-                I thrive in the dynamic world of design, constantly seeking to
-                evolve alongside emerging trends and technologies. Scroll down
-                to discover more about me and my work.
+                Hello there! 👋 I am a dedicated UI/UX Designer, driven by three
+                years of hands-on experience in the field. Passionate about my
+                craft, I thrive in the dynamic world of design, constantly
+                striving to evolve with emerging trends and technology.
               </p>
             </div>
           </div>

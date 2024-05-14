@@ -91,10 +91,10 @@ export default function Printon() {
             </h5>
             <p className="paragraph-text text-[16px] font-medium leading-[140%] ">
               After making some iterations of layouts, I transformed them into a
-              High Fidelity design to ask for feedback from my supervisor on
+              High Fidelity design to ask for feedback from my design lead on
               which one is the best match for the project. Instead of relying on
-              my supervisor, I also share my opinion on which iteration fits the
-              project.
+              my design lead, I also share my opinion on which iteration fits
+              the project.
             </p>
             <a href="/img/works/superalink/hifi.png" target="_blank">
               <img src="/img/works/superalink/hifi.png"></img>
@@ -109,7 +109,7 @@ export default function Printon() {
               Design others function
             </h5>
             <p className="paragraph-text text-[16px] font-medium leading-[140%] ">
-              After receiving input from my supervisor and deciding on which
+              After receiving input from my design lead and deciding on which
               design to use, I began designing additional functions such as the
               Create, Read, Update, Delete (CRUD) and good/bad case scenario.
             </p>

@@ -54,7 +54,7 @@ export default function Printon() {
             </h5>
             <p className="paragraph-text text-[16px] font-medium leading-[140%] ">
               After gathering a ton of ideas, I then start to design. I start
-              with the desktop version and ask my supervisor for feedback in
+              with the desktop version and ask my design lead for feedback in
               order to improve the design once I've finished it.
             </p>
             <a href="/img/works/beliesim/design-1.png" target="_blank">
@@ -64,7 +64,7 @@ export default function Printon() {
               ></img>
             </a>
             <p className="paragraph-text text-[16px] font-medium leading-[140%] ">
-              After discussing with my design leader and accepting the current
+              After discussing with my design lead and accepting the current
               design with nothing to improve, I began designing the responsive
               including the tablet and mobile versions.
             </p>
