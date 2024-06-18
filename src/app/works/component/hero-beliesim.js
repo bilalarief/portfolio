@@ -50,7 +50,7 @@ export default function hero() {
                 UI Design
               </div>
               <div className="Tag px-4 py-1 text-[16px] leading-[140%] rounded-full border border-[#A6A6A6] paragraph-text">
-                SaaS Design
+                Responsive Design
               </div>
             </div>
           </div>
