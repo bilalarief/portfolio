@@ -164,6 +164,29 @@ export default function Home() {
             <div className="content col-start-6 col-span-7 gap-6 grid">
               <div
                 className="list sm:flex sm:justify-between py-4 border-b border-[#3F3F3F]"
+                onMouseEnter={() => handleHover("/img/home/default-pict.png")}
+                onMouseLeave={() => handleHover("/img/home/default-pict.png")}
+              >
+                <div className="roles">
+                  <p className="text-[24px] font-semibold	sm:flex grid text-white">
+                    UI/UX Designer
+                    <span className="paragraph-text-scnd font-normal sm:ml-2">
+                      Full Time
+                    </span>
+                  </p>
+                  <p className="text-[20px] leading-[140%] paragraph-text-scnd">
+                    Opticore Technology
+                  </p>
+                  <p className="text-[16px] leading-[140%] paragraph-text-scnd">
+                    Bandung, West Java, Indonesia
+                  </p>
+                </div>
+                <p className="leading-[140%] text-[20px] paragraph-text-scnd max-sm:mt-4">
+                  June 2024 - Present
+                </p>
+              </div>
+              <div
+                className="list sm:flex sm:justify-between py-4 border-b border-[#3F3F3F]"
                 onMouseEnter={() => handleHover("/img/home/auroraweb.png")}
                 onMouseLeave={() => handleHover("/img/home/default-pict.png")}
               >
