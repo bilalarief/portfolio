@@ -164,7 +164,7 @@ export default function Home() {
             <div className="content col-start-6 col-span-7 gap-6 grid">
               <div
                 className="list sm:flex sm:justify-between py-4 border-b border-[#3F3F3F]"
-                onMouseEnter={() => handleHover("/img/home/default-pict.png")}
+                onMouseEnter={() => handleHover("/img/home/opticore.png")}
                 onMouseLeave={() => handleHover("/img/home/default-pict.png")}
               >
                 <div className="roles">
