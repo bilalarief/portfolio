@@ -25,10 +25,9 @@ export default function Home() {
                 <span className="font-bold"> UI/UX Designer</span>
               </h1>
               <p className="text-[20px] leading-[140%] paragraph-text">
-                Hello there! 👋 I am a dedicated UI/UX Designer, driven by three
-                years of hands-on experience in the field. Passionate about my
-                craft, I thrive in the dynamic world of design, constantly
-                striving to evolve with emerging trends and technology.
+                Hello there! 👋 I’ve spent the last three years working in
+                UI/UX, but I can take on other design-related tasks as well. If
+                it’s about design, I’m always up for it!
               </p>
             </div>
             <div className="card-profile col-start-9 col-span-4 px-[12px] pt-[12px] pb-[32px] rounded-[16px]">
@@ -137,10 +136,9 @@ export default function Home() {
                 <span className="font-bold"> UI/UX Designer</span>
               </h1>
               <p className="text-[18px] leading-[140%] paragraph-text">
-                Hello there! 👋 I am a dedicated UI/UX Designer, driven by three
-                years of hands-on experience in the field. Passionate about my
-                craft, I thrive in the dynamic world of design, constantly
-                striving to evolve with emerging trends and technology.
+                Hello there! 👋 I’ve spent the last three years working in
+                UI/UX, but I can take on other design-related tasks as well. If
+                it’s about design, I’m always up for it!
               </p>
             </div>
           </div>
@@ -183,6 +181,29 @@ export default function Home() {
                 </div>
                 <p className="leading-[140%] text-[20px] paragraph-text-scnd max-sm:mt-4">
                   June 2024 - Present
+                </p>
+              </div>
+              <div
+                className="list sm:flex sm:justify-between py-4 border-b border-[#3F3F3F]"
+                onMouseEnter={() => handleHover("/img/home/default-pict.png")}
+                onMouseLeave={() => handleHover("/img/home/default-pict.png")}
+              >
+                <div className="roles">
+                  <p className="text-[24px] font-semibold	sm:flex grid text-white">
+                    Graphic Designer
+                    <span className="paragraph-text-scnd font-normal sm:ml-2">
+                      Internship
+                    </span>
+                  </p>
+                  <p className="text-[20px] leading-[140%] paragraph-text-scnd">
+                    D2l.SG
+                  </p>
+                  <p className="text-[16px] leading-[140%] paragraph-text-scnd">
+                    Singapore
+                  </p>
+                </div>
+                <p className="leading-[140%] text-[20px] paragraph-text-scnd max-sm:mt-4">
+                  December 2024 - Present
                 </p>
               </div>
               <div
