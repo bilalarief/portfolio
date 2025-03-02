@@ -30,7 +30,7 @@ function ScrollSection() {
     );
     return () => {
       {
-        /* A return function for killing the animation on component unmount */
+        /* A return function for killing the animation mdsmkdsmkon component unmount */
       }
       pin.kill();
     };
