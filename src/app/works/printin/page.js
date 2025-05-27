@@ -13,7 +13,7 @@ export default function Printon() {
           {" "}
           <div className="hifi grid gap-10 max-sm:w-[100vw] max-sm:px-4 place-items-center">
             <a href="/img/works/printin/mockup.png" target="_blank">
-              <img className="w-full" src="/img/works/d2l/mockup.png"></img>
+              <img className="w-full" src="/img/works/printin/mockup.png"></img>
             </a>
             <a href="/img/works/printin/Home.png" target="_blank">
               <img

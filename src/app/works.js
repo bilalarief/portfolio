@@ -93,7 +93,7 @@ function ScrollSection() {
             </div>
           </div>
         </a>
-        <a href="/works/trackerid">
+        {/* <a href="/works/trackerid">
           {" "}
           <div className="d2l w-full rounded-lg border-2 overflow-auto	">
             <div className="bg-center bg-cover bg-[url('/img/home/trackerid.png')] w-full h-[248px]"></div>
@@ -108,7 +108,7 @@ function ScrollSection() {
               </div>
             </div>
           </div>
-        </a>
+        </a> */}
         <a href="/works/superalink">
           {" "}
           <div className="Superalink w-full rounded-lg border-2 overflow-auto	">
@@ -231,7 +231,7 @@ function ScrollSection() {
                 </div>
               </a>
             </div>
-            <div className="scroll-section ">
+            {/* <div className="scroll-section ">
               <a href="/works/trackerid">
                 {" "}
                 <div className="Printon w-[376px] rounded-lg border-2 overflow-auto	">
@@ -248,7 +248,7 @@ function ScrollSection() {
                   </div>
                 </div>
               </a>
-            </div>
+            </div> */}
             <div className="scroll-section ">
               <a href="/works/superalink">
                 {" "}
